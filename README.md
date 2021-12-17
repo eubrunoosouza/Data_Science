@@ -16,18 +16,12 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Links:**
 * [Blog](http://guarani.tech)
 * [LinkedIn](https://www.linkedin.com/in/eubrunosouza)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@eubrunoosouza)
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+## Alguns dos meus projetos de Data Science:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
-
+* **Meu portfólio completo:** https://guarani.tech
+* **Análise Exploratória de Dados - Airbnb/Escócia:** https://bit.ly/325URR8
+* **Projeto COVID:** https://guarani.tech
 ---
