@@ -5,23 +5,27 @@
 </p>
 
 # Bruno C. Souza
-<sub>*Engineer and Data Science Student*</sub>
+<sub>*Data Scientist | Engineer | Marketing Specialist*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+An Engineer avid to help businesses solve their problems using Data Science and Machine Learning solutions with Python.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+I'm a storyteller that believes data is a great way to tell good stories.
 
-**Background in:** Engineering, Python, Machine Learning, Marketing, and Mathematical Optimisation.
+I'm constantly working on improving my soft and hard skills, learning something new, to become more useful to the people that I'm working with.
+
+
+**Background in:** Engineering, Python, Machine Learning and Digital Marketing.
 
 **Links:**
-* [Blog](http://guarani.tech)
 * [LinkedIn](https://www.linkedin.com/in/eubrunosouza)
 * [Medium](https://medium.com/@eubrunoosouza)
 
 
-## Alguns dos meus projetos de Data Science:
+## Check my portfolio below: 
 
-* **Meu portfólio completo:** https://guarani.tech
-* **Análise Exploratória de Dados - Airbnb/Escócia:** https://bit.ly/325URR8
-* **Projeto COVID:** https://guarani.tech
+* Airbnb Exploratory Data Analysis(ENG): https://bit.ly/3JjucAC
+* Airbnb Exploratory Data Analysis(PT-BR): https://bit.ly/3qilTxA
+* Medium Article Airbnb Project (NoCode): bit.ly/Article-Airbnb-Medium (PT-BR)
+
+* COVID-19 EDA - World and Brazil (PT-BR): https://bit.ly/36ot8gh
 ---
