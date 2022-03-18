@@ -7,7 +7,7 @@
 # Bruno C. Souza
 <sub>*Data Scientist | Engineer | Marketing Specialist*</sub>
 
-A Engineer avid to help businesses solve their problems using Data Science and Machine Learning solutions with Python.
+An Engineer avid to help businesses solve their problems using Data Science and Machine Learning solutions with Python.
 I'm a storyteller that believes data is a great way to tell good stories.
 I'm constantly working on improving my soft and hard skills, learning something new, to become more useful to the people that I'm working with.
 
