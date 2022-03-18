@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/eubrunoosouza/data_science/blob/b4fff5fdd171ab3b93931697e49e8aca54f6ee02/MISC/DATA%20SCIENCE%20(1).gif" >
 </p>
-
+![](https://github.com/eubrunoosouza/data_science/blob/b4fff5fdd171ab3b93931697e49e8aca54f6ee02/MISC/DATA%20SCIENCE%20(1).gif)
 # Bruno C. Souza
 <sub>*Engineer and Data Science Student*</sub>
 
