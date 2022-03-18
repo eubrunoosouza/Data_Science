@@ -23,7 +23,7 @@ I'm constantly working on improving my soft and hard skills, learning something 
 
 * [Airbnb Exploratory Data Analysis (ENG)](https://bit.ly/3JjucAC)
 * [Airbnb Exploratory Data Analysis (PT-BR)](ttps://bit.ly/3qilTxA)
-* [Medium Article Airbnb Project - NoCode_PT-BR](https://bit.ly/Article-Airbnb-Medium)
+* [Medium Article Airbnb Project - (NoCode_PT-BR)](https://bit.ly/Article-Airbnb-Medium)
 
 * [COVID-19 EDA - World and Brazil (PT-BR)](https://bit.ly/36ot8gh)
 ---
